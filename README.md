@@ -2,6 +2,8 @@
 
 A modern cryptocurrency tracking web application built with React and Vite. The application provides real-time cryptocurrency market data, interactive price charts, and detailed information about digital assets through a clean and responsive user interface.
 
+
+## Cloud Uploaded link: https://crypto-project-delta-lyart.vercel.app/
 ## ⚙️ Tech Stack
 
 - React 19
